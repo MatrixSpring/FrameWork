@@ -93,7 +93,9 @@ ext {
 
             /*友盟统计需要的最新版本组件化基础库和统计SDK*/
             "umeng-common"                         : "com.umeng.sdk:common:latest.integration",
-            "umeng-analytics"                      : "com.umeng.sdk:analytics:latest.integration"
+            "umeng-analytics"                      : "com.umeng.sdk:analytics:latest.integration",
+
+            "database-sqlcipher"                   : "net.zetetic:android-database-sqlcipher:4.2.0"
     ]
 }
 

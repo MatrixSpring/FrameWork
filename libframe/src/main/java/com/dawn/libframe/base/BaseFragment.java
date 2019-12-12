@@ -1,10 +1,11 @@
 package com.dawn.libframe.base;
 
 import android.os.Bundle;
-import android.support.annotation.Nullable;
-import android.support.v4.app.Fragment;
 import android.util.DisplayMetrics;
 import android.view.WindowManager;
+
+import androidx.annotation.Nullable;
+import androidx.fragment.app.Fragment;
 
 public class BaseFragment extends Fragment {
     public WindowManager manager;

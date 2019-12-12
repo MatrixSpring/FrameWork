@@ -1,13 +1,10 @@
 
 {
-	"buildFiles" : 
-	[
-		"/Users/dawn/Downloads/AABB/FrameApplicationNew/libpatch/CMakeLists.txt"
-	],
+	"buildFiles" : [ "/Users/dawn/Downloads/AABB/ApplicationFrame/libpatch/CMakeLists.txt" ],
 	"cFileExtensions" : [ "c" ],
 	"cleanCommands" : 
 	[
-		"/Users/dawn/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/dawn/Downloads/AABB/FrameApplicationNew/libpatch/.cxx/cmake/debug/x86 --target clean"
+		"/Users/dawn/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/dawn/Downloads/AABB/ApplicationFrame/libpatch/.cxx/cmake/debug/x86 --target clean"
 	],
 	"libraries" : 
 	{
@@ -15,72 +12,72 @@
 		{
 			"abi" : "x86",
 			"artifactName" : "patchLibrary",
-			"buildCommand" : "/Users/dawn/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/dawn/Downloads/AABB/FrameApplicationNew/libpatch/.cxx/cmake/debug/x86 --target patchLibrary",
+			"buildCommand" : "/Users/dawn/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/dawn/Downloads/AABB/ApplicationFrame/libpatch/.cxx/cmake/debug/x86 --target patchLibrary",
 			"buildType" : "debug",
 			"files" : 
 			[
 				
 				{
 					"flags" : "  --target=i686-none-linux-android19 --gcc-toolchain=/Users/dawn/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/dawn/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DpatchLibrary_EXPORTS -I../../../../src/main/jni/bzip2  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
-					"src" : "/Users/dawn/Downloads/AABB/FrameApplicationNew/libpatch/src/main/jni/patchlibrary.c",
-					"workingDirectory" : "/Users/dawn/Downloads/AABB/FrameApplicationNew/libpatch/.cxx/cmake/debug/x86"
+					"src" : "/Users/dawn/Downloads/AABB/ApplicationFrame/libpatch/src/main/jni/patchlibrary.c",
+					"workingDirectory" : "/Users/dawn/Downloads/AABB/ApplicationFrame/libpatch/.cxx/cmake/debug/x86"
 				},
 				
 				{
 					"flags" : "  --target=i686-none-linux-android19 --gcc-toolchain=/Users/dawn/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/dawn/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DpatchLibrary_EXPORTS -I../../../../src/main/jni/bzip2  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
-					"src" : "/Users/dawn/Downloads/AABB/FrameApplicationNew/libpatch/src/main/jni/bsdiff.c",
-					"workingDirectory" : "/Users/dawn/Downloads/AABB/FrameApplicationNew/libpatch/.cxx/cmake/debug/x86"
+					"src" : "/Users/dawn/Downloads/AABB/ApplicationFrame/libpatch/src/main/jni/bsdiff.c",
+					"workingDirectory" : "/Users/dawn/Downloads/AABB/ApplicationFrame/libpatch/.cxx/cmake/debug/x86"
 				},
 				
 				{
 					"flags" : "  --target=i686-none-linux-android19 --gcc-toolchain=/Users/dawn/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/dawn/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DpatchLibrary_EXPORTS -I../../../../src/main/jni/bzip2  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
-					"src" : "/Users/dawn/Downloads/AABB/FrameApplicationNew/libpatch/src/main/jni/bspatch.c",
-					"workingDirectory" : "/Users/dawn/Downloads/AABB/FrameApplicationNew/libpatch/.cxx/cmake/debug/x86"
+					"src" : "/Users/dawn/Downloads/AABB/ApplicationFrame/libpatch/src/main/jni/bspatch.c",
+					"workingDirectory" : "/Users/dawn/Downloads/AABB/ApplicationFrame/libpatch/.cxx/cmake/debug/x86"
 				},
 				
 				{
 					"flags" : "  --target=i686-none-linux-android19 --gcc-toolchain=/Users/dawn/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/dawn/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DpatchLibrary_EXPORTS -I../../../../src/main/jni/bzip2  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
-					"src" : "/Users/dawn/Downloads/AABB/FrameApplicationNew/libpatch/src/main/jni/bzip2/bzlib.c",
-					"workingDirectory" : "/Users/dawn/Downloads/AABB/FrameApplicationNew/libpatch/.cxx/cmake/debug/x86"
+					"src" : "/Users/dawn/Downloads/AABB/ApplicationFrame/libpatch/src/main/jni/bzip2/bzlib.c",
+					"workingDirectory" : "/Users/dawn/Downloads/AABB/ApplicationFrame/libpatch/.cxx/cmake/debug/x86"
 				},
 				
 				{
 					"flags" : "  --target=i686-none-linux-android19 --gcc-toolchain=/Users/dawn/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/dawn/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DpatchLibrary_EXPORTS -I../../../../src/main/jni/bzip2  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
-					"src" : "/Users/dawn/Downloads/AABB/FrameApplicationNew/libpatch/src/main/jni/bzip2/crctable.c",
-					"workingDirectory" : "/Users/dawn/Downloads/AABB/FrameApplicationNew/libpatch/.cxx/cmake/debug/x86"
+					"src" : "/Users/dawn/Downloads/AABB/ApplicationFrame/libpatch/src/main/jni/bzip2/crctable.c",
+					"workingDirectory" : "/Users/dawn/Downloads/AABB/ApplicationFrame/libpatch/.cxx/cmake/debug/x86"
 				},
 				
 				{
 					"flags" : "  --target=i686-none-linux-android19 --gcc-toolchain=/Users/dawn/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/dawn/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DpatchLibrary_EXPORTS -I../../../../src/main/jni/bzip2  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
-					"src" : "/Users/dawn/Downloads/AABB/FrameApplicationNew/libpatch/src/main/jni/bzip2/compress.c",
-					"workingDirectory" : "/Users/dawn/Downloads/AABB/FrameApplicationNew/libpatch/.cxx/cmake/debug/x86"
+					"src" : "/Users/dawn/Downloads/AABB/ApplicationFrame/libpatch/src/main/jni/bzip2/compress.c",
+					"workingDirectory" : "/Users/dawn/Downloads/AABB/ApplicationFrame/libpatch/.cxx/cmake/debug/x86"
 				},
 				
 				{
 					"flags" : "  --target=i686-none-linux-android19 --gcc-toolchain=/Users/dawn/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/dawn/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DpatchLibrary_EXPORTS -I../../../../src/main/jni/bzip2  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
-					"src" : "/Users/dawn/Downloads/AABB/FrameApplicationNew/libpatch/src/main/jni/bzip2/decompress.c",
-					"workingDirectory" : "/Users/dawn/Downloads/AABB/FrameApplicationNew/libpatch/.cxx/cmake/debug/x86"
+					"src" : "/Users/dawn/Downloads/AABB/ApplicationFrame/libpatch/src/main/jni/bzip2/decompress.c",
+					"workingDirectory" : "/Users/dawn/Downloads/AABB/ApplicationFrame/libpatch/.cxx/cmake/debug/x86"
 				},
 				
 				{
 					"flags" : "  --target=i686-none-linux-android19 --gcc-toolchain=/Users/dawn/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/dawn/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DpatchLibrary_EXPORTS -I../../../../src/main/jni/bzip2  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
-					"src" : "/Users/dawn/Downloads/AABB/FrameApplicationNew/libpatch/src/main/jni/bzip2/randtable.c",
-					"workingDirectory" : "/Users/dawn/Downloads/AABB/FrameApplicationNew/libpatch/.cxx/cmake/debug/x86"
+					"src" : "/Users/dawn/Downloads/AABB/ApplicationFrame/libpatch/src/main/jni/bzip2/randtable.c",
+					"workingDirectory" : "/Users/dawn/Downloads/AABB/ApplicationFrame/libpatch/.cxx/cmake/debug/x86"
 				},
 				
 				{
 					"flags" : "  --target=i686-none-linux-android19 --gcc-toolchain=/Users/dawn/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/dawn/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DpatchLibrary_EXPORTS -I../../../../src/main/jni/bzip2  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
-					"src" : "/Users/dawn/Downloads/AABB/FrameApplicationNew/libpatch/src/main/jni/bzip2/blocksort.c",
-					"workingDirectory" : "/Users/dawn/Downloads/AABB/FrameApplicationNew/libpatch/.cxx/cmake/debug/x86"
+					"src" : "/Users/dawn/Downloads/AABB/ApplicationFrame/libpatch/src/main/jni/bzip2/blocksort.c",
+					"workingDirectory" : "/Users/dawn/Downloads/AABB/ApplicationFrame/libpatch/.cxx/cmake/debug/x86"
 				},
 				
 				{
 					"flags" : "  --target=i686-none-linux-android19 --gcc-toolchain=/Users/dawn/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/dawn/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DpatchLibrary_EXPORTS -I../../../../src/main/jni/bzip2  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
-					"src" : "/Users/dawn/Downloads/AABB/FrameApplicationNew/libpatch/src/main/jni/bzip2/huffman.c",
-					"workingDirectory" : "/Users/dawn/Downloads/AABB/FrameApplicationNew/libpatch/.cxx/cmake/debug/x86"
+					"src" : "/Users/dawn/Downloads/AABB/ApplicationFrame/libpatch/src/main/jni/bzip2/huffman.c",
+					"workingDirectory" : "/Users/dawn/Downloads/AABB/ApplicationFrame/libpatch/.cxx/cmake/debug/x86"
 				}
 			],
-			"output" : "/Users/dawn/Downloads/AABB/FrameApplicationNew/libpatch/build/intermediates/cmake/debug/obj/x86/libpatchLibrary.so",
+			"output" : "/Users/dawn/Downloads/AABB/ApplicationFrame/libpatch/build/intermediates/cmake/debug/obj/x86/libpatchLibrary.so",
 			"toolchain" : "233007896506259594"
 		}
 	},

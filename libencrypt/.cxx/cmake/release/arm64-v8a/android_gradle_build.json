@@ -2,12 +2,12 @@
 {
 	"buildFiles" : 
 	[
-		"/Users/dawn/Downloads/AABB/FrameApplicationNew/libencrypt/CMakeLists.txt"
+		"/Users/dawn/Downloads/AABB/ApplicationFrame/libencrypt/CMakeLists.txt"
 	],
 	"cFileExtensions" : [ "c" ],
 	"cleanCommands" : 
 	[
-		"/Users/dawn/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/dawn/Downloads/AABB/FrameApplicationNew/libencrypt/.cxx/cmake/release/arm64-v8a --target clean"
+		"/Users/dawn/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/dawn/Downloads/AABB/ApplicationFrame/libencrypt/.cxx/cmake/release/arm64-v8a --target clean"
 	],
 	"cppFileExtensions" : [ "cpp" ],
 	"libraries" : 
@@ -16,48 +16,48 @@
 		{
 			"abi" : "arm64-v8a",
 			"artifactName" : "lib-encrypt",
-			"buildCommand" : "/Users/dawn/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/dawn/Downloads/AABB/FrameApplicationNew/libencrypt/.cxx/cmake/release/arm64-v8a --target lib-encrypt",
+			"buildCommand" : "/Users/dawn/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/dawn/Downloads/AABB/ApplicationFrame/libencrypt/.cxx/cmake/release/arm64-v8a --target lib-encrypt",
 			"buildType" : "release",
 			"files" : 
 			[
 				
 				{
 					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/dawn/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/dawn/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dlib_encrypt_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
-					"src" : "/Users/dawn/Downloads/AABB/FrameApplicationNew/libencrypt/src/main/cpp/lib-encrypt.cpp",
-					"workingDirectory" : "/Users/dawn/Downloads/AABB/FrameApplicationNew/libencrypt/.cxx/cmake/release/arm64-v8a"
+					"src" : "/Users/dawn/Downloads/AABB/ApplicationFrame/libencrypt/src/main/cpp/lib-encrypt.cpp",
+					"workingDirectory" : "/Users/dawn/Downloads/AABB/ApplicationFrame/libencrypt/.cxx/cmake/release/arm64-v8a"
 				},
 				
 				{
 					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/dawn/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/dawn/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dlib_encrypt_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
-					"src" : "/Users/dawn/Downloads/AABB/FrameApplicationNew/libencrypt/src/main/cpp/CheckerSignature.cpp",
-					"workingDirectory" : "/Users/dawn/Downloads/AABB/FrameApplicationNew/libencrypt/.cxx/cmake/release/arm64-v8a"
+					"src" : "/Users/dawn/Downloads/AABB/ApplicationFrame/libencrypt/src/main/cpp/CheckerSignature.cpp",
+					"workingDirectory" : "/Users/dawn/Downloads/AABB/ApplicationFrame/libencrypt/.cxx/cmake/release/arm64-v8a"
 				},
 				
 				{
 					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/dawn/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/dawn/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dlib_encrypt_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
-					"src" : "/Users/dawn/Downloads/AABB/FrameApplicationNew/libencrypt/src/main/cpp/EncodeUtils.cpp",
-					"workingDirectory" : "/Users/dawn/Downloads/AABB/FrameApplicationNew/libencrypt/.cxx/cmake/release/arm64-v8a"
+					"src" : "/Users/dawn/Downloads/AABB/ApplicationFrame/libencrypt/src/main/cpp/EncodeUtils.cpp",
+					"workingDirectory" : "/Users/dawn/Downloads/AABB/ApplicationFrame/libencrypt/.cxx/cmake/release/arm64-v8a"
 				},
 				
 				{
 					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/dawn/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/dawn/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlib_encrypt_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC      -c ",
-					"src" : "/Users/dawn/Downloads/AABB/FrameApplicationNew/libencrypt/src/main/cpp/aes.c",
-					"workingDirectory" : "/Users/dawn/Downloads/AABB/FrameApplicationNew/libencrypt/.cxx/cmake/release/arm64-v8a"
+					"src" : "/Users/dawn/Downloads/AABB/ApplicationFrame/libencrypt/src/main/cpp/aes.c",
+					"workingDirectory" : "/Users/dawn/Downloads/AABB/ApplicationFrame/libencrypt/.cxx/cmake/release/arm64-v8a"
 				},
 				
 				{
 					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/dawn/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/dawn/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dlib_encrypt_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
-					"src" : "/Users/dawn/Downloads/AABB/FrameApplicationNew/libencrypt/src/main/cpp/md5.cpp",
-					"workingDirectory" : "/Users/dawn/Downloads/AABB/FrameApplicationNew/libencrypt/.cxx/cmake/release/arm64-v8a"
+					"src" : "/Users/dawn/Downloads/AABB/ApplicationFrame/libencrypt/src/main/cpp/md5.cpp",
+					"workingDirectory" : "/Users/dawn/Downloads/AABB/ApplicationFrame/libencrypt/.cxx/cmake/release/arm64-v8a"
 				},
 				
 				{
 					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/dawn/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/dawn/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dlib_encrypt_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
-					"src" : "/Users/dawn/Downloads/AABB/FrameApplicationNew/libencrypt/src/main/cpp/Utils.cpp",
-					"workingDirectory" : "/Users/dawn/Downloads/AABB/FrameApplicationNew/libencrypt/.cxx/cmake/release/arm64-v8a"
+					"src" : "/Users/dawn/Downloads/AABB/ApplicationFrame/libencrypt/src/main/cpp/Utils.cpp",
+					"workingDirectory" : "/Users/dawn/Downloads/AABB/ApplicationFrame/libencrypt/.cxx/cmake/release/arm64-v8a"
 				}
 			],
-			"output" : "/Users/dawn/Downloads/AABB/FrameApplicationNew/libencrypt/build/intermediates/cmake/release/obj/arm64-v8a/liblib-encrypt.so",
+			"output" : "/Users/dawn/Downloads/AABB/ApplicationFrame/libencrypt/build/intermediates/cmake/release/obj/arm64-v8a/liblib-encrypt.so",
 			"toolchain" : "233007896506259594"
 		}
 	},

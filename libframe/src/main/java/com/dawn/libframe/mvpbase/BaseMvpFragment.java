@@ -1,16 +1,17 @@
 package com.dawn.libframe.mvpbase;
 
 import android.os.Bundle;
-import android.support.annotation.NonNull;
-import android.support.annotation.Nullable;
 import android.util.DisplayMetrics;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.view.WindowManager;
 
-import com.yty.libframe.base.BaseFragment;
-import com.yty.libframe.event.EmptyMsg;
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
+
+import com.dawn.libframe.base.BaseFragment;
+import com.dawn.libframe.event.EmptyMsg;
 
 import org.greenrobot.eventbus.EventBus;
 import org.greenrobot.eventbus.Subscribe;

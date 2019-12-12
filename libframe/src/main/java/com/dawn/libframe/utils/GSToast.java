@@ -5,13 +5,14 @@ import android.app.Activity;
 import android.app.Application;
 import android.content.Context;
 import android.content.res.Resources;
-import android.support.annotation.StringRes;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.yty.libframe.R;
+import androidx.annotation.StringRes;
+
+import com.dawn.libframe.R;
 
 public class GSToast extends Toast {
     private Context mContext;

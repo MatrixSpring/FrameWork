@@ -1,6 +1,6 @@
 package com.dawn.libframe.api;
 
-import com.yty.libframe.base.ActivityLifeCycleEvent;
+import com.dawn.libframe.base.ActivityLifeCycleEvent;
 
 import io.reactivex.Observable;
 import io.reactivex.Observer;

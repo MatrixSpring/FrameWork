@@ -42,7 +42,7 @@ rule C_SHARED_LIBRARY_LINKER__patchLibrary
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /Users/dawn/Library/Android/sdk/cmake/3.6.4111459/bin/cmake -H/Users/dawn/Downloads/AABB/FrameApplicationNew/libpatch -B/Users/dawn/Downloads/AABB/FrameApplicationNew/libpatch/.cxx/cmake/debug/x86
+  command = /Users/dawn/Library/Android/sdk/cmake/3.6.4111459/bin/cmake -H/Users/dawn/Downloads/AABB/ApplicationFrame/libpatch -B/Users/dawn/Downloads/AABB/ApplicationFrame/libpatch/.cxx/cmake/debug/x86
   description = Re-running CMake...
   generator = 1
 

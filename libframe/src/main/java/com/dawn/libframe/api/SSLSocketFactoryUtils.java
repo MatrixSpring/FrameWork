@@ -1,7 +1,8 @@
 package com.dawn.libframe.api;
 
 import android.content.Context;
-import android.support.annotation.RawRes;
+
+import androidx.annotation.RawRes;
 
 import java.io.InputStream;
 import java.security.KeyManagementException;

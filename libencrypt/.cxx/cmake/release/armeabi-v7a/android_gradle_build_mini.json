@@ -1,16 +1,16 @@
 {
   "buildFiles": [
-    "/Users/dawn/Downloads/AABB/FrameApplicationNew/libencrypt/CMakeLists.txt"
+    "/Users/dawn/Downloads/AABB/ApplicationFrame/libencrypt/CMakeLists.txt"
   ],
   "cleanCommands": [
-    "/Users/dawn/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/dawn/Downloads/AABB/FrameApplicationNew/libencrypt/.cxx/cmake/release/armeabi-v7a --target clean"
+    "/Users/dawn/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/dawn/Downloads/AABB/ApplicationFrame/libencrypt/.cxx/cmake/release/armeabi-v7a --target clean"
   ],
   "libraries": {
     "lib-encrypt-Release-armeabi-v7a": {
       "artifactName": "lib-encrypt",
-      "buildCommand": "/Users/dawn/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/dawn/Downloads/AABB/FrameApplicationNew/libencrypt/.cxx/cmake/release/armeabi-v7a --target lib-encrypt",
+      "buildCommand": "/Users/dawn/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/dawn/Downloads/AABB/ApplicationFrame/libencrypt/.cxx/cmake/release/armeabi-v7a --target lib-encrypt",
       "abi": "armeabi-v7a",
-      "output": "/Users/dawn/Downloads/AABB/FrameApplicationNew/libencrypt/build/intermediates/cmake/release/obj/armeabi-v7a/liblib-encrypt.so"
+      "output": "/Users/dawn/Downloads/AABB/ApplicationFrame/libencrypt/build/intermediates/cmake/release/obj/armeabi-v7a/liblib-encrypt.so"
     }
   }
 }

@@ -34,7 +34,7 @@ include rules.ninja
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /Users/dawn/Downloads/AABB/FrameApplicationNew/libpatch/.cxx/cmake/debug/x86 && /Users/dawn/Library/Android/sdk/cmake/3.6.4111459/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+  COMMAND = cd /Users/dawn/Downloads/AABB/ApplicationFrame/libpatch/.cxx/cmake/debug/x86 && /Users/dawn/Library/Android/sdk/cmake/3.6.4111459/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
   DESC = No interactive CMake dialog available...
   restat = 1
 build edit_cache: phony CMakeFiles/edit_cache.util
@@ -43,7 +43,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /Users/dawn/Downloads/AABB/FrameApplicationNew/libpatch/.cxx/cmake/debug/x86 && /Users/dawn/Library/Android/sdk/cmake/3.6.4111459/bin/cmake -H/Users/dawn/Downloads/AABB/FrameApplicationNew/libpatch -B/Users/dawn/Downloads/AABB/FrameApplicationNew/libpatch/.cxx/cmake/debug/x86
+  COMMAND = cd /Users/dawn/Downloads/AABB/ApplicationFrame/libpatch/.cxx/cmake/debug/x86 && /Users/dawn/Library/Android/sdk/cmake/3.6.4111459/bin/cmake -H/Users/dawn/Downloads/AABB/ApplicationFrame/libpatch -B/Users/dawn/Downloads/AABB/ApplicationFrame/libpatch/.cxx/cmake/debug/x86
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -56,7 +56,7 @@ build CMakeFiles/patchLibrary.dir/src/main/jni/patchlibrary.c.o: C_COMPILER__pat
   DEP_FILE = CMakeFiles/patchLibrary.dir/src/main/jni/patchlibrary.c.o.d
   FLAGS = -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC
   INCLUDES = -I../../../../src/main/jni/bzip2
-  IN_ABS = /Users/dawn/Downloads/AABB/FrameApplicationNew/libpatch/src/main/jni/patchlibrary.c
+  IN_ABS = /Users/dawn/Downloads/AABB/ApplicationFrame/libpatch/src/main/jni/patchlibrary.c
   OBJECT_DIR = CMakeFiles/patchLibrary.dir
   OBJECT_FILE_DIR = CMakeFiles/patchLibrary.dir/src/main/jni
 build CMakeFiles/patchLibrary.dir/src/main/jni/bsdiff.c.o: C_COMPILER__patchLibrary ../../../../src/main/jni/bsdiff.c
@@ -64,7 +64,7 @@ build CMakeFiles/patchLibrary.dir/src/main/jni/bsdiff.c.o: C_COMPILER__patchLibr
   DEP_FILE = CMakeFiles/patchLibrary.dir/src/main/jni/bsdiff.c.o.d
   FLAGS = -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC
   INCLUDES = -I../../../../src/main/jni/bzip2
-  IN_ABS = /Users/dawn/Downloads/AABB/FrameApplicationNew/libpatch/src/main/jni/bsdiff.c
+  IN_ABS = /Users/dawn/Downloads/AABB/ApplicationFrame/libpatch/src/main/jni/bsdiff.c
   OBJECT_DIR = CMakeFiles/patchLibrary.dir
   OBJECT_FILE_DIR = CMakeFiles/patchLibrary.dir/src/main/jni
 build CMakeFiles/patchLibrary.dir/src/main/jni/bspatch.c.o: C_COMPILER__patchLibrary ../../../../src/main/jni/bspatch.c
@@ -72,7 +72,7 @@ build CMakeFiles/patchLibrary.dir/src/main/jni/bspatch.c.o: C_COMPILER__patchLib
   DEP_FILE = CMakeFiles/patchLibrary.dir/src/main/jni/bspatch.c.o.d
   FLAGS = -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC
   INCLUDES = -I../../../../src/main/jni/bzip2
-  IN_ABS = /Users/dawn/Downloads/AABB/FrameApplicationNew/libpatch/src/main/jni/bspatch.c
+  IN_ABS = /Users/dawn/Downloads/AABB/ApplicationFrame/libpatch/src/main/jni/bspatch.c
   OBJECT_DIR = CMakeFiles/patchLibrary.dir
   OBJECT_FILE_DIR = CMakeFiles/patchLibrary.dir/src/main/jni
 build CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/bzlib.c.o: C_COMPILER__patchLibrary ../../../../src/main/jni/bzip2/bzlib.c
@@ -80,7 +80,7 @@ build CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/bzlib.c.o: C_COMPILER__patc
   DEP_FILE = CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/bzlib.c.o.d
   FLAGS = -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC
   INCLUDES = -I../../../../src/main/jni/bzip2
-  IN_ABS = /Users/dawn/Downloads/AABB/FrameApplicationNew/libpatch/src/main/jni/bzip2/bzlib.c
+  IN_ABS = /Users/dawn/Downloads/AABB/ApplicationFrame/libpatch/src/main/jni/bzip2/bzlib.c
   OBJECT_DIR = CMakeFiles/patchLibrary.dir
   OBJECT_FILE_DIR = CMakeFiles/patchLibrary.dir/src/main/jni/bzip2
 build CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/crctable.c.o: C_COMPILER__patchLibrary ../../../../src/main/jni/bzip2/crctable.c
@@ -88,7 +88,7 @@ build CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/crctable.c.o: C_COMPILER__p
   DEP_FILE = CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/crctable.c.o.d
   FLAGS = -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC
   INCLUDES = -I../../../../src/main/jni/bzip2
-  IN_ABS = /Users/dawn/Downloads/AABB/FrameApplicationNew/libpatch/src/main/jni/bzip2/crctable.c
+  IN_ABS = /Users/dawn/Downloads/AABB/ApplicationFrame/libpatch/src/main/jni/bzip2/crctable.c
   OBJECT_DIR = CMakeFiles/patchLibrary.dir
   OBJECT_FILE_DIR = CMakeFiles/patchLibrary.dir/src/main/jni/bzip2
 build CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/compress.c.o: C_COMPILER__patchLibrary ../../../../src/main/jni/bzip2/compress.c
@@ -96,7 +96,7 @@ build CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/compress.c.o: C_COMPILER__p
   DEP_FILE = CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/compress.c.o.d
   FLAGS = -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC
   INCLUDES = -I../../../../src/main/jni/bzip2
-  IN_ABS = /Users/dawn/Downloads/AABB/FrameApplicationNew/libpatch/src/main/jni/bzip2/compress.c
+  IN_ABS = /Users/dawn/Downloads/AABB/ApplicationFrame/libpatch/src/main/jni/bzip2/compress.c
   OBJECT_DIR = CMakeFiles/patchLibrary.dir
   OBJECT_FILE_DIR = CMakeFiles/patchLibrary.dir/src/main/jni/bzip2
 build CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/decompress.c.o: C_COMPILER__patchLibrary ../../../../src/main/jni/bzip2/decompress.c
@@ -104,7 +104,7 @@ build CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/decompress.c.o: C_COMPILER_
   DEP_FILE = CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/decompress.c.o.d
   FLAGS = -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC
   INCLUDES = -I../../../../src/main/jni/bzip2
-  IN_ABS = /Users/dawn/Downloads/AABB/FrameApplicationNew/libpatch/src/main/jni/bzip2/decompress.c
+  IN_ABS = /Users/dawn/Downloads/AABB/ApplicationFrame/libpatch/src/main/jni/bzip2/decompress.c
   OBJECT_DIR = CMakeFiles/patchLibrary.dir
   OBJECT_FILE_DIR = CMakeFiles/patchLibrary.dir/src/main/jni/bzip2
 build CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/randtable.c.o: C_COMPILER__patchLibrary ../../../../src/main/jni/bzip2/randtable.c
@@ -112,7 +112,7 @@ build CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/randtable.c.o: C_COMPILER__
   DEP_FILE = CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/randtable.c.o.d
   FLAGS = -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC
   INCLUDES = -I../../../../src/main/jni/bzip2
-  IN_ABS = /Users/dawn/Downloads/AABB/FrameApplicationNew/libpatch/src/main/jni/bzip2/randtable.c
+  IN_ABS = /Users/dawn/Downloads/AABB/ApplicationFrame/libpatch/src/main/jni/bzip2/randtable.c
   OBJECT_DIR = CMakeFiles/patchLibrary.dir
   OBJECT_FILE_DIR = CMakeFiles/patchLibrary.dir/src/main/jni/bzip2
 build CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/blocksort.c.o: C_COMPILER__patchLibrary ../../../../src/main/jni/bzip2/blocksort.c
@@ -120,7 +120,7 @@ build CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/blocksort.c.o: C_COMPILER__
   DEP_FILE = CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/blocksort.c.o.d
   FLAGS = -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC
   INCLUDES = -I../../../../src/main/jni/bzip2
-  IN_ABS = /Users/dawn/Downloads/AABB/FrameApplicationNew/libpatch/src/main/jni/bzip2/blocksort.c
+  IN_ABS = /Users/dawn/Downloads/AABB/ApplicationFrame/libpatch/src/main/jni/bzip2/blocksort.c
   OBJECT_DIR = CMakeFiles/patchLibrary.dir
   OBJECT_FILE_DIR = CMakeFiles/patchLibrary.dir/src/main/jni/bzip2
 build CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/huffman.c.o: C_COMPILER__patchLibrary ../../../../src/main/jni/bzip2/huffman.c
@@ -128,7 +128,7 @@ build CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/huffman.c.o: C_COMPILER__pa
   DEP_FILE = CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/huffman.c.o.d
   FLAGS = -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC
   INCLUDES = -I../../../../src/main/jni/bzip2
-  IN_ABS = /Users/dawn/Downloads/AABB/FrameApplicationNew/libpatch/src/main/jni/bzip2/huffman.c
+  IN_ABS = /Users/dawn/Downloads/AABB/ApplicationFrame/libpatch/src/main/jni/bzip2/huffman.c
   OBJECT_DIR = CMakeFiles/patchLibrary.dir
   OBJECT_FILE_DIR = CMakeFiles/patchLibrary.dir/src/main/jni/bzip2
 

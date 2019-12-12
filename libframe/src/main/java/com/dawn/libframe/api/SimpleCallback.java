@@ -1,7 +1,6 @@
 package com.dawn.libframe.api;
 
-
-import com.yty.libframe.mvpbase.BaseView;
+import com.dawn.libframe.mvpbase.BaseView;
 
 /**
  * @author Jenly <a href="mailto:jenly1314@gmail.com">Jenly</a>

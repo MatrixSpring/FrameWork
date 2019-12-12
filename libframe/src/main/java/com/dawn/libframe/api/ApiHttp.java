@@ -1,9 +1,8 @@
 package com.dawn.libframe.api;
 
-
-import com.yty.libframe.api.cookie.CookieJarImpl;
-import com.yty.libframe.api.cookie.store.PersistentCookieStore;
-import com.yty.libframe.base.AppReflect;
+import com.dawn.libframe.api.cookie.CookieJarImpl;
+import com.dawn.libframe.api.cookie.store.PersistentCookieStore;
+import com.dawn.libframe.base.AppReflect;
 
 import org.apache.http.conn.ssl.SSLSocketFactory;
 

@@ -1,10 +1,10 @@
 Executable : /Users/dawn/Library/Android/sdk/cmake/3.6.4111459/bin/cmake
 arguments : 
--H/Users/dawn/Downloads/AABB/FrameApplicationNew/libpatch
--B/Users/dawn/Downloads/AABB/FrameApplicationNew/libpatch/.cxx/cmake/debug/x86
+-H/Users/dawn/Downloads/AABB/ApplicationFrame/libpatch
+-B/Users/dawn/Downloads/AABB/ApplicationFrame/libpatch/.cxx/cmake/debug/x86
 -DANDROID_ABI=x86
 -DANDROID_PLATFORM=android-19
--DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/dawn/Downloads/AABB/FrameApplicationNew/libpatch/build/intermediates/cmake/debug/obj/x86
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/dawn/Downloads/AABB/ApplicationFrame/libpatch/build/intermediates/cmake/debug/obj/x86
 -DCMAKE_BUILD_TYPE=Debug
 -DANDROID_NDK=/Users/dawn/Library/Android/sdk/ndk-bundle
 -DCMAKE_CXX_FLAGS=

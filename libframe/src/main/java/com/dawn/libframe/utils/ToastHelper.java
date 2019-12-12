@@ -1,12 +1,13 @@
 package com.dawn.libframe.utils;
 
 import android.content.Context;
-import android.support.annotation.StringRes;
 import android.text.TextUtils;
 import android.view.Gravity;
 import android.widget.Toast;
 
-import com.yty.libframe.base.AppReflect;
+import androidx.annotation.StringRes;
+
+import com.dawn.libframe.base.AppReflect;
 
 import java.lang.ref.WeakReference;
 

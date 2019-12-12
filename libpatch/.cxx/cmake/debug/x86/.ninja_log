@@ -1,12 +1,12 @@
 # ninja log v5
-3	169	0	CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/crctable.c.o	d9164fa3c2e6dae2
-1	204	0	CMakeFiles/patchLibrary.dir/src/main/jni/bspatch.c.o	42a570ddcc5ec4be
-0	212	0	CMakeFiles/patchLibrary.dir/src/main/jni/patchlibrary.c.o	8c239bea658f8a4f
-0	218	0	CMakeFiles/patchLibrary.dir/src/main/jni/bsdiff.c.o	655a84566c86a020
-205	290	0	CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/randtable.c.o	28dba10ba06a3f91
-218	331	0	CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/huffman.c.o	a7324a31c06c9eaa
-1	372	0	CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/bzlib.c.o	43a7907bbbb0ac12
-4	378	0	CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/compress.c.o	de3d0d6e012507b5
-212	390	0	CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/blocksort.c.o	f77b3ff5d948af79
-170	414	0	CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/decompress.c.o	e4ce79b844b885c2
-414	470	0	../../../../build/intermediates/cmake/debug/obj/x86/libpatchLibrary.so	d74dc29f635c8c6c
+0	349	0	CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/crctable.c.o	5410436d4922cddc
+1	396	0	CMakeFiles/patchLibrary.dir/src/main/jni/bspatch.c.o	6deae7409b8a165f
+0	421	0	CMakeFiles/patchLibrary.dir/src/main/jni/patchlibrary.c.o	d67069c9b88cc81c
+396	471	0	CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/randtable.c.o	bf7a2cf454e41cff
+1	522	0	CMakeFiles/patchLibrary.dir/src/main/jni/bsdiff.c.o	1a1fc62833acdaa3
+471	560	0	CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/huffman.c.o	b3f7f1a222b3d151
+2	589	0	CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/compress.c.o	75b3d7b6098dead3
+421	688	0	CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/blocksort.c.o	749e5e96555d2f05
+349	691	0	CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/decompress.c.o	595c69cb97859c7d
+2	744	0	CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/bzlib.c.o	c0e4bddb8f6a2dce
+744	843	0	../../../../build/intermediates/cmake/debug/obj/x86/libpatchLibrary.so	d74dc29f635c8c6c

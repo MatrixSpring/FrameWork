@@ -2,7 +2,7 @@ package com.dawn.libframe.db;
 
 import android.content.ContentValues;
 import android.database.sqlite.SQLiteDatabase;
-import android.support.v4.util.ArrayMap;
+import android.util.ArrayMap;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;

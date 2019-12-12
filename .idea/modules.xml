@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FrameApp.iml" filepath="$PROJECT_DIR$/FrameApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bindview/bindview.iml" filepath="$PROJECT_DIR$/bindview/bindview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bindview/libannotation/libannotation.iml" filepath="$PROJECT_DIR$/bindview/libannotation/libannotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libbase/libbase.iml" filepath="$PROJECT_DIR$/libbase/libbase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bindview/libbindview/libbindview.iml" filepath="$PROJECT_DIR$/bindview/libbindview/libbindview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libencrypt/libencrypt.iml" filepath="$PROJECT_DIR$/libencrypt/libencrypt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libframe/libframe.iml" filepath="$PROJECT_DIR$/libframe/libframe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libpatch/libpatch.iml" filepath="$PROJECT_DIR$/libpatch/libpatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libplugin/libplugin.iml" filepath="$PROJECT_DIR$/libplugin/libplugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bindview/libprocessor/libprocessor.iml" filepath="$PROJECT_DIR$/bindview/libprocessor/libprocessor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libshare/libshare.iml" filepath="$PROJECT_DIR$/libshare/libshare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libview/libview.iml" filepath="$PROJECT_DIR$/libview/libview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uilogin/uilogin.iml" filepath="$PROJECT_DIR$/uilogin/uilogin.iml" />
+    </modules>
+  </component>
+</project>

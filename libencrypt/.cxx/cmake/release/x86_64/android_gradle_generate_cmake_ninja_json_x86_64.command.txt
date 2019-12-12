@@ -1,10 +1,10 @@
 Executable : /Users/dawn/Library/Android/sdk/cmake/3.6.4111459/bin/cmake
 arguments : 
--H/Users/dawn/Downloads/AABB/FrameApplicationNew/libencrypt
--B/Users/dawn/Downloads/AABB/FrameApplicationNew/libencrypt/.cxx/cmake/release/x86_64
+-H/Users/dawn/Downloads/AABB/ApplicationFrame/libencrypt
+-B/Users/dawn/Downloads/AABB/ApplicationFrame/libencrypt/.cxx/cmake/release/x86_64
 -DANDROID_ABI=x86_64
 -DANDROID_PLATFORM=android-19
--DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/dawn/Downloads/AABB/FrameApplicationNew/libencrypt/build/intermediates/cmake/release/obj/x86_64
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/dawn/Downloads/AABB/ApplicationFrame/libencrypt/build/intermediates/cmake/release/obj/x86_64
 -DCMAKE_BUILD_TYPE=Release
 -DANDROID_NDK=/Users/dawn/Library/Android/sdk/ndk-bundle
 -DCMAKE_CXX_FLAGS=

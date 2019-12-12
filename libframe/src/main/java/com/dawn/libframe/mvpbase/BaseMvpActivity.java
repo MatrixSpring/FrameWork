@@ -1,10 +1,11 @@
 package com.dawn.libframe.mvpbase;
 
 import android.os.Bundle;
-import android.support.annotation.Nullable;
 import android.view.View;
 
-import com.yty.libframe.base.BaseActivity;
+import androidx.annotation.Nullable;
+
+import com.dawn.libframe.base.BaseActivity;
 
 /**
  * Created by dawn on 2018/3/7.

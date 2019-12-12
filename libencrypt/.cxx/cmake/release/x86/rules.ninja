@@ -52,7 +52,7 @@ rule CXX_SHARED_LIBRARY_LINKER__lib-encrypt
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /Users/dawn/Library/Android/sdk/cmake/3.6.4111459/bin/cmake -H/Users/dawn/Downloads/AABB/FrameApplicationNew/libencrypt -B/Users/dawn/Downloads/AABB/FrameApplicationNew/libencrypt/.cxx/cmake/release/x86
+  command = /Users/dawn/Library/Android/sdk/cmake/3.6.4111459/bin/cmake -H/Users/dawn/Downloads/AABB/ApplicationFrame/libencrypt -B/Users/dawn/Downloads/AABB/ApplicationFrame/libencrypt/.cxx/cmake/release/x86
   description = Re-running CMake...
   generator = 1
 

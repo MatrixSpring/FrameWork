@@ -2,10 +2,11 @@ package com.dawn.libframe.base;
 
 import android.app.Activity;
 import android.os.Bundle;
-import android.support.annotation.Nullable;
-import android.support.v7.app.AppCompatActivity;
 import android.util.DisplayMetrics;
 import android.view.WindowManager;
+
+import androidx.annotation.Nullable;
+import androidx.appcompat.app.AppCompatActivity;
 
 import butterknife.ButterKnife;
 import io.reactivex.subjects.PublishSubject;

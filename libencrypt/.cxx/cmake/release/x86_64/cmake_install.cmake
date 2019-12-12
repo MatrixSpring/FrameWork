@@ -1,4 +1,4 @@
-# Install script for directory: /Users/dawn/Downloads/AABB/FrameApplicationNew/libencrypt
+# Install script for directory: /Users/dawn/Downloads/AABB/ApplicationFrame/libencrypt
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/dawn/Downloads/AABB/FrameApplicationNew/libencrypt/.cxx/cmake/release/x86_64/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/dawn/Downloads/AABB/ApplicationFrame/libencrypt/.cxx/cmake/release/x86_64/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
