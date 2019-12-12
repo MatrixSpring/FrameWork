@@ -6,383 +6,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90f080c5-801b-4c35-93bb-36da4cc7d878" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/dawn/frameapp/bean/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/sqlcipher/DaoSupport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/sqlcipher/DaoSupportFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/sqlcipher/DaoUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/sqlcipher/IDaoSupport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/sqlcipher/QuerySupport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libplugin/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libplugin/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libplugin/consumer-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libplugin/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libplugin/src/androidTest/java/com/dawn/libplugin/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libplugin/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libplugin/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libplugin/src/test/java/com/dawn/libplugin/ExampleUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libshare/libs/open_sdk_r5990_lite.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libshare/libs/umeng-analytics-8.1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libshare/libs/umeng-common-2.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libshare/libs/umeng-share-QQ-full-6.9.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libshare/libs/umeng-share-core-6.9.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libshare/libs/umeng-share-dropbox-6.9.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libshare/libs/umeng-share-sina-full-6.9.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libshare/libs/umeng-share-wechat-full-6.9.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libshare/libs/umeng-shareboard-widget-6.9.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libshare/libs/umeng-sharetool-6.9.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libshare/libs/wechat-sdk-android-without-mta-5.1.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libshare/libs/weiboSDKCore.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libshare/src/main/res/drawable/app_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libshare/src/main/res/drawable/share_more.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libshare/src/main/res/drawable/umeng_socialize_menu_default.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libshare/src/main/res/drawable/umeng_socialize_qq.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libshare/src/main/res/drawable/umeng_socialize_qzone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libshare/src/main/res/drawable/umeng_socialize_sina.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libshare/src/main/res/drawable/umeng_socialize_wechat.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libshare/src/main/res/drawable/umeng_socialize_wxcircle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libshare/src/main/res/layout/widget_share_item.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libshare/src/main/res/layout/widget_share_menu.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libshare/src/main/res/values-en/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libshare/src/main/res/values-ja/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libshare/src/main/res/values-zh/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libshare/src/main/res/values/colors.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/app/proguard-rules.pro" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/dawn/frameapp/ui/home/HomeFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/dawn/frameapp/ui/home/HomeFragment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/config.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libannotation/libannotation.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libbindview/libbindview.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/arm64-v8a/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/arm64-v8a/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/arm64-v8a/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/arm64-v8a/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/arm64-v8a/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/arm64-v8a/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/arm64-v8a/android_gradle_build.json" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/arm64-v8a/android_gradle_build.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/arm64-v8a/android_gradle_build_mini.json" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/arm64-v8a/android_gradle_build_mini.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/arm64-v8a/android_gradle_generate_cmake_ninja_json_arm64-v8a.command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/arm64-v8a/android_gradle_generate_cmake_ninja_json_arm64-v8a.command.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/arm64-v8a/android_gradle_generate_cmake_ninja_json_arm64-v8a.stdout.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/arm64-v8a/android_gradle_generate_cmake_ninja_json_arm64-v8a.stdout.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/arm64-v8a/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/arm64-v8a/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/arm64-v8a/build_command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/arm64-v8a/build_command.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/arm64-v8a/build_model.json" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/arm64-v8a/build_model.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/arm64-v8a/build_output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/arm64-v8a/build_output.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/arm64-v8a/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/arm64-v8a/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/arm64-v8a/json_generation_record.json" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/arm64-v8a/json_generation_record.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/arm64-v8a/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/arm64-v8a/rules.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/armeabi-v7a/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/armeabi-v7a/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/feature_tests.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/armeabi-v7a/android_gradle_build.json" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/armeabi-v7a/android_gradle_build.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/armeabi-v7a/android_gradle_build_mini.json" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/armeabi-v7a/android_gradle_build_mini.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/armeabi-v7a/android_gradle_generate_cmake_ninja_json_armeabi-v7a.command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/armeabi-v7a/android_gradle_generate_cmake_ninja_json_armeabi-v7a.command.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/armeabi-v7a/android_gradle_generate_cmake_ninja_json_armeabi-v7a.stdout.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/armeabi-v7a/android_gradle_generate_cmake_ninja_json_armeabi-v7a.stdout.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/armeabi-v7a/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/armeabi-v7a/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/armeabi-v7a/build_command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/armeabi-v7a/build_command.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/armeabi-v7a/build_model.json" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/armeabi-v7a/build_model.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/armeabi-v7a/build_output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/armeabi-v7a/build_output.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/armeabi-v7a/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/armeabi-v7a/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/armeabi-v7a/json_generation_record.json" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/armeabi-v7a/json_generation_record.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/armeabi-v7a/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/armeabi-v7a/rules.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86/CMakeFiles/feature_tests.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86/android_gradle_build.json" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86/android_gradle_build.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86/android_gradle_build_mini.json" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86/android_gradle_build_mini.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86/android_gradle_generate_cmake_ninja_json_x86.command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86/android_gradle_generate_cmake_ninja_json_x86.command.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86/android_gradle_generate_cmake_ninja_json_x86.stdout.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86/android_gradle_generate_cmake_ninja_json_x86.stdout.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86/build_command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86/build_command.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86/build_model.json" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86/build_model.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86/build_output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86/build_output.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86/json_generation_record.json" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86/json_generation_record.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86/rules.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86_64/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86_64/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86_64/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86_64/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86_64/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86_64/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86_64/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86_64/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86_64/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86_64/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86_64/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86_64/CMakeFiles/feature_tests.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86_64/android_gradle_build.json" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86_64/android_gradle_build.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86_64/android_gradle_build_mini.json" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86_64/android_gradle_build_mini.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86_64/android_gradle_generate_cmake_ninja_json_x86_64.command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86_64/android_gradle_generate_cmake_ninja_json_x86_64.command.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86_64/android_gradle_generate_cmake_ninja_json_x86_64.stdout.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86_64/android_gradle_generate_cmake_ninja_json_x86_64.stdout.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86_64/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86_64/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86_64/build_command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86_64/build_command.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86_64/build_model.json" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86_64/build_model.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86_64/build_output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86_64/build_output.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86_64/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86_64/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86_64/json_generation_record.json" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86_64/json_generation_record.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86_64/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/debug/x86_64/rules.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/arm64-v8a/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/arm64-v8a/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/arm64-v8a/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/arm64-v8a/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/arm64-v8a/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/arm64-v8a/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/arm64-v8a/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/arm64-v8a/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/arm64-v8a/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/arm64-v8a/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/arm64-v8a/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/arm64-v8a/CMakeFiles/feature_tests.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/arm64-v8a/android_gradle_build.json" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/arm64-v8a/android_gradle_build.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/arm64-v8a/android_gradle_build_mini.json" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/arm64-v8a/android_gradle_build_mini.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/arm64-v8a/android_gradle_generate_cmake_ninja_json_arm64-v8a.command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/arm64-v8a/android_gradle_generate_cmake_ninja_json_arm64-v8a.command.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/arm64-v8a/android_gradle_generate_cmake_ninja_json_arm64-v8a.stdout.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/arm64-v8a/android_gradle_generate_cmake_ninja_json_arm64-v8a.stdout.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/arm64-v8a/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/arm64-v8a/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/arm64-v8a/build_command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/arm64-v8a/build_command.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/arm64-v8a/build_model.json" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/arm64-v8a/build_model.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/arm64-v8a/build_output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/arm64-v8a/build_output.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/arm64-v8a/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/arm64-v8a/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/arm64-v8a/json_generation_record.json" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/arm64-v8a/json_generation_record.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/arm64-v8a/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/arm64-v8a/rules.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/armeabi-v7a/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/armeabi-v7a/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/armeabi-v7a/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/armeabi-v7a/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/armeabi-v7a/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/armeabi-v7a/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/armeabi-v7a/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/armeabi-v7a/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/armeabi-v7a/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/armeabi-v7a/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/armeabi-v7a/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/armeabi-v7a/CMakeFiles/feature_tests.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/armeabi-v7a/android_gradle_build.json" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/armeabi-v7a/android_gradle_build.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/armeabi-v7a/android_gradle_build_mini.json" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/armeabi-v7a/android_gradle_build_mini.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/armeabi-v7a/android_gradle_generate_cmake_ninja_json_armeabi-v7a.command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/armeabi-v7a/android_gradle_generate_cmake_ninja_json_armeabi-v7a.command.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/armeabi-v7a/android_gradle_generate_cmake_ninja_json_armeabi-v7a.stdout.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/armeabi-v7a/android_gradle_generate_cmake_ninja_json_armeabi-v7a.stdout.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/armeabi-v7a/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/armeabi-v7a/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/armeabi-v7a/build_command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/armeabi-v7a/build_command.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/armeabi-v7a/build_model.json" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/armeabi-v7a/build_model.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/armeabi-v7a/build_output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/armeabi-v7a/build_output.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/armeabi-v7a/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/armeabi-v7a/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/armeabi-v7a/json_generation_record.json" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/armeabi-v7a/json_generation_record.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/armeabi-v7a/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/armeabi-v7a/rules.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86/CMakeFiles/feature_tests.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86/android_gradle_build.json" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86/android_gradle_build.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86/android_gradle_build_mini.json" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86/android_gradle_build_mini.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86/android_gradle_generate_cmake_ninja_json_x86.command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86/android_gradle_generate_cmake_ninja_json_x86.command.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86/android_gradle_generate_cmake_ninja_json_x86.stdout.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86/android_gradle_generate_cmake_ninja_json_x86.stdout.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86/build_command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86/build_command.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86/build_model.json" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86/build_model.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86/build_output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86/build_output.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86/json_generation_record.json" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86/json_generation_record.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86/rules.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86_64/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86_64/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86_64/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86_64/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86_64/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86_64/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86_64/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86_64/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86_64/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86_64/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86_64/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86_64/CMakeFiles/feature_tests.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86_64/android_gradle_build.json" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86_64/android_gradle_build.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86_64/android_gradle_build_mini.json" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86_64/android_gradle_build_mini.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86_64/android_gradle_generate_cmake_ninja_json_x86_64.command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86_64/android_gradle_generate_cmake_ninja_json_x86_64.command.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86_64/android_gradle_generate_cmake_ninja_json_x86_64.stdout.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86_64/android_gradle_generate_cmake_ninja_json_x86_64.stdout.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86_64/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86_64/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86_64/build_command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86_64/build_command.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86_64/build_model.json" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86_64/build_model.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86_64/build_output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86_64/build_output.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86_64/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86_64/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86_64/json_generation_record.json" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86_64/json_generation_record.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86_64/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/.cxx/cmake/release/x86_64/rules.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libencrypt/libencrypt.iml" beforeDir="false" afterPath="$PROJECT_DIR$/libencrypt/libencrypt.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libframe/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/libframe/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libframe/libframe.iml" beforeDir="false" afterPath="$PROJECT_DIR$/libframe/libframe.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/api/ApiHttp.java" beforeDir="false" afterPath="$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/api/ApiHttp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/api/ApiObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/api/ApiObserver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/api/SSLSocketFactoryUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/api/SSLSocketFactoryUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/api/SimpleCallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/api/SimpleCallback.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/api/WebCookieHandle.java" beforeDir="false" afterPath="$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/api/WebCookieHandle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/api/cookie/CookieJarImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/api/cookie/CookieJarImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/api/cookie/store/WebCookieHandle.java" beforeDir="false" afterPath="$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/api/cookie/store/WebCookieHandle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/base/BaseActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/base/BaseActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/base/BaseFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/base/BaseFragment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/crash/CrashConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/crash/CrashConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/crash/CrashHandle.java" beforeDir="false" afterPath="$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/crash/CrashHandle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/crash/CrashHandleNew.java" beforeDir="false" afterPath="$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/crash/CrashHandleNew.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/crash/DefaultErrorActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/crash/DefaultErrorActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/db/DaoSupport.java" beforeDir="false" afterPath="$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/db/DaoSupport.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/mvpbase/BaseMvpActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/mvpbase/BaseMvpActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/mvpbase/BaseMvpFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/mvpbase/BaseMvpFragment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/mvpbase/BaseView.java" beforeDir="false" afterPath="$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/mvpbase/BaseView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/permission/PermissionFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/permission/PermissionFragment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/permission/PermissionUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/permission/PermissionUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/utils/GSToast.java" beforeDir="false" afterPath="$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/utils/GSToast.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/utils/SpHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/utils/SpHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/utils/ToastHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/utils/ToastHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/utils/constant/MemoryConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/utils/constant/MemoryConstants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/utils/constant/TimeConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/utils/constant/TimeConstants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/arm64-v8a/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/arm64-v8a/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/arm64-v8a/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/arm64-v8a/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/arm64-v8a/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/arm64-v8a/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/arm64-v8a/android_gradle_build.json" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/arm64-v8a/android_gradle_build.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/arm64-v8a/android_gradle_build_mini.json" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/arm64-v8a/android_gradle_build_mini.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/arm64-v8a/android_gradle_generate_cmake_ninja_json_arm64-v8a.command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/arm64-v8a/android_gradle_generate_cmake_ninja_json_arm64-v8a.command.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/arm64-v8a/android_gradle_generate_cmake_ninja_json_arm64-v8a.stdout.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/arm64-v8a/android_gradle_generate_cmake_ninja_json_arm64-v8a.stdout.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/arm64-v8a/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/arm64-v8a/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/arm64-v8a/build_command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/arm64-v8a/build_command.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/arm64-v8a/build_model.json" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/arm64-v8a/build_model.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/arm64-v8a/build_output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/arm64-v8a/build_output.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/arm64-v8a/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/arm64-v8a/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/arm64-v8a/json_generation_record.json" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/arm64-v8a/json_generation_record.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/arm64-v8a/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/arm64-v8a/rules.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/.ninja_deps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/feature_tests.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/patchLibrary.dir/src/main/jni/bsdiff.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/patchLibrary.dir/src/main/jni/bsdiff.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/patchLibrary.dir/src/main/jni/bspatch.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/patchLibrary.dir/src/main/jni/bspatch.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/blocksort.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/blocksort.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/bzlib.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/bzlib.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/compress.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/compress.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/crctable.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/crctable.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/decompress.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/decompress.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/huffman.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/huffman.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/randtable.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/randtable.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/patchLibrary.dir/src/main/jni/patchlibrary.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/patchLibrary.dir/src/main/jni/patchlibrary.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/android_gradle_build.json" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/android_gradle_build.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/android_gradle_build_mini.json" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/android_gradle_build_mini.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/android_gradle_generate_cmake_ninja_json_armeabi-v7a.command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/android_gradle_generate_cmake_ninja_json_armeabi-v7a.command.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/android_gradle_generate_cmake_ninja_json_armeabi-v7a.stdout.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/android_gradle_generate_cmake_ninja_json_armeabi-v7a.stdout.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/build_command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/build_command.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/build_model.json" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/build_model.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/build_output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/build_output.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/json_generation_record.json" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/json_generation_record.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/armeabi-v7a/rules.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/.ninja_deps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/CMakeFiles/feature_tests.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/CMakeFiles/patchLibrary.dir/src/main/jni/bsdiff.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/CMakeFiles/patchLibrary.dir/src/main/jni/bsdiff.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/CMakeFiles/patchLibrary.dir/src/main/jni/bspatch.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/CMakeFiles/patchLibrary.dir/src/main/jni/bspatch.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/blocksort.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/blocksort.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/bzlib.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/bzlib.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/compress.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/compress.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/crctable.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/crctable.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/decompress.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/decompress.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/huffman.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/huffman.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/randtable.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/randtable.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/CMakeFiles/patchLibrary.dir/src/main/jni/patchlibrary.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/CMakeFiles/patchLibrary.dir/src/main/jni/patchlibrary.c.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/android_gradle_build.json" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/android_gradle_build.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/android_gradle_build_mini.json" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/android_gradle_build_mini.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/android_gradle_generate_cmake_ninja_json_x86.command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/android_gradle_generate_cmake_ninja_json_x86.command.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/android_gradle_generate_cmake_ninja_json_x86.stdout.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/android_gradle_generate_cmake_ninja_json_x86.stdout.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/build_command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/build_command.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/build_model.json" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/build_model.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/build_output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/build_output.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/json_generation_record.json" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/json_generation_record.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86/rules.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86_64/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86_64/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86_64/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86_64/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86_64/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86_64/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86_64/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86_64/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86_64/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86_64/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86_64/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86_64/CMakeFiles/feature_tests.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86_64/android_gradle_build.json" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86_64/android_gradle_build.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86_64/android_gradle_build_mini.json" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86_64/android_gradle_build_mini.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86_64/android_gradle_generate_cmake_ninja_json_x86_64.command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86_64/android_gradle_generate_cmake_ninja_json_x86_64.command.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86_64/android_gradle_generate_cmake_ninja_json_x86_64.stdout.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86_64/android_gradle_generate_cmake_ninja_json_x86_64.stdout.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86_64/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86_64/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86_64/build_command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86_64/build_command.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86_64/build_model.json" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86_64/build_model.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86_64/build_output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86_64/build_output.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86_64/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86_64/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86_64/json_generation_record.json" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86_64/json_generation_record.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86_64/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/debug/x86_64/rules.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/arm64-v8a/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/arm64-v8a/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/arm64-v8a/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/arm64-v8a/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/arm64-v8a/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/arm64-v8a/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/arm64-v8a/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/arm64-v8a/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/arm64-v8a/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/arm64-v8a/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/arm64-v8a/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/arm64-v8a/CMakeFiles/feature_tests.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/arm64-v8a/android_gradle_build.json" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/arm64-v8a/android_gradle_build.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/arm64-v8a/android_gradle_build_mini.json" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/arm64-v8a/android_gradle_build_mini.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/arm64-v8a/android_gradle_generate_cmake_ninja_json_arm64-v8a.command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/arm64-v8a/android_gradle_generate_cmake_ninja_json_arm64-v8a.command.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/arm64-v8a/android_gradle_generate_cmake_ninja_json_arm64-v8a.stdout.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/arm64-v8a/android_gradle_generate_cmake_ninja_json_arm64-v8a.stdout.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/arm64-v8a/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/arm64-v8a/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/arm64-v8a/build_command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/arm64-v8a/build_command.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/arm64-v8a/build_model.json" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/arm64-v8a/build_model.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/arm64-v8a/build_output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/arm64-v8a/build_output.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/arm64-v8a/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/arm64-v8a/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/arm64-v8a/json_generation_record.json" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/arm64-v8a/json_generation_record.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/arm64-v8a/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/arm64-v8a/rules.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/armeabi-v7a/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/armeabi-v7a/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/armeabi-v7a/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/armeabi-v7a/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/armeabi-v7a/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/armeabi-v7a/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/armeabi-v7a/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/armeabi-v7a/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/armeabi-v7a/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/armeabi-v7a/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/armeabi-v7a/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/armeabi-v7a/CMakeFiles/feature_tests.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/armeabi-v7a/android_gradle_build.json" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/armeabi-v7a/android_gradle_build.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/armeabi-v7a/android_gradle_build_mini.json" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/armeabi-v7a/android_gradle_build_mini.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/armeabi-v7a/android_gradle_generate_cmake_ninja_json_armeabi-v7a.command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/armeabi-v7a/android_gradle_generate_cmake_ninja_json_armeabi-v7a.command.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/armeabi-v7a/android_gradle_generate_cmake_ninja_json_armeabi-v7a.stdout.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/armeabi-v7a/android_gradle_generate_cmake_ninja_json_armeabi-v7a.stdout.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/armeabi-v7a/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/armeabi-v7a/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/armeabi-v7a/build_command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/armeabi-v7a/build_command.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/armeabi-v7a/build_model.json" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/armeabi-v7a/build_model.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/armeabi-v7a/build_output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/armeabi-v7a/build_output.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/armeabi-v7a/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/armeabi-v7a/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/armeabi-v7a/json_generation_record.json" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/armeabi-v7a/json_generation_record.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/armeabi-v7a/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/armeabi-v7a/rules.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86/CMakeFiles/feature_tests.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86/android_gradle_build.json" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86/android_gradle_build.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86/android_gradle_build_mini.json" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86/android_gradle_build_mini.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86/android_gradle_generate_cmake_ninja_json_x86.command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86/android_gradle_generate_cmake_ninja_json_x86.command.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86/android_gradle_generate_cmake_ninja_json_x86.stdout.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86/android_gradle_generate_cmake_ninja_json_x86.stdout.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86/build_command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86/build_command.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86/build_model.json" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86/build_model.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86/build_output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86/build_output.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86/json_generation_record.json" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86/json_generation_record.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86/rules.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86_64/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86_64/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86_64/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86_64/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86_64/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86_64/CMakeFiles/3.6.0-rc2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86_64/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86_64/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86_64/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86_64/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86_64/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86_64/CMakeFiles/feature_tests.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86_64/android_gradle_build.json" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86_64/android_gradle_build.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86_64/android_gradle_build_mini.json" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86_64/android_gradle_build_mini.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86_64/android_gradle_generate_cmake_ninja_json_x86_64.command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86_64/android_gradle_generate_cmake_ninja_json_x86_64.command.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86_64/android_gradle_generate_cmake_ninja_json_x86_64.stdout.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86_64/android_gradle_generate_cmake_ninja_json_x86_64.stdout.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86_64/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86_64/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86_64/build_command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86_64/build_command.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86_64/build_model.json" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86_64/build_model.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86_64/build_output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86_64/build_output.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86_64/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86_64/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86_64/json_generation_record.json" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86_64/json_generation_record.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86_64/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/.cxx/cmake/release/x86_64/rules.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libpatch/libpatch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/libpatch/libpatch.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libprocessor/libprocessor.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libshare/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/libshare/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libshare/libshare.iml" beforeDir="false" afterPath="$PROJECT_DIR$/libshare/libshare.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libshare/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/libshare/src/main/res/values/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uilogin/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/uilogin/build.gradle" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -405,18 +37,6 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/utils/constant/MemoryConstants.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="224">
@@ -425,15 +45,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dawn/frameapp/ui/home/HomeFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="945">
-              <caret line="86" column="1" lean-forward="true" selection-start-line="86" selection-start-column="1" selection-end-line="86" selection-end-column="1" />
+            <state relative-caret-position="45">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
               <folding>
                 <element signature="e#1797#1798#0" expanded="true" />
                 <element signature="e#1842#1843#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/uilogin/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -481,7 +110,7 @@
         <entry file="file://$PROJECT_DIR$/app/proguard-rules.pro">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="155">
-              <caret line="286" column="34" lean-forward="true" selection-start-line="286" selection-start-column="34" selection-end-line="286" selection-end-column="34" />
+              <caret line="286" column="34" selection-start-line="286" selection-start-column="34" selection-end-line="286" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -562,6 +191,7 @@
         <option value="$PROJECT_DIR$/app/proguard-rules.pro" />
         <option value="$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/sqlcipher/DaoSupportFactory.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/dawn/frameapp/bean/Student.java" />
+        <option value="$PROJECT_DIR$/uilogin/build.gradle" />
       </list>
     </option>
   </component>
@@ -668,9 +298,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="109" />
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="324" />
+    <option name="y" value="38" />
     <option name="width" value="1331" />
     <option name="height" value="776" />
   </component>
@@ -759,65 +389,13 @@
             <path>
               <item name="FrameApp" type="b2602c69:ProjectViewProjectNode" />
               <item name="ApplicationFrame" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="libframe" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="uilogin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="FrameApp" type="b2602c69:ProjectViewProjectNode" />
               <item name="ApplicationFrame" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="libframe" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="uilogin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FrameApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ApplicationFrame" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="libframe" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FrameApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ApplicationFrame" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="libframe" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FrameApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ApplicationFrame" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="libframe" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="libframe" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FrameApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ApplicationFrame" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="libframe" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="libframe" type="462c0819:PsiDirectoryNode" />
-              <item name="sqlcipher" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FrameApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ApplicationFrame" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="libshare" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="FrameApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ApplicationFrame" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="libshare" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FrameApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ApplicationFrame" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="libshare" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -826,6 +404,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
@@ -932,7 +511,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="109" y="23" width="1331" height="776" extended-state="0" />
+    <frame x="324" y="38" width="1331" height="776" extended-state="1" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.28006205" />
       <window_info id="Structure" side_tool="true" />
@@ -944,14 +523,14 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Run" />
-      <window_info anchor="bottom" id="Logcat" visible="true" weight="0.18305598" />
+      <window_info anchor="bottom" id="Logcat" weight="0.18305598" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="TODO" />
       <window_info anchor="bottom" id="Android Profiler" />
       <window_info anchor="bottom" id="Debug" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Build" weight="0.43419063" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.43419063" />
       <window_info anchor="right" id="Device File Explorer" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="right" id="Gradle" />
@@ -960,13 +539,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/sqlcipher/CipherHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="36" column="13" lean-forward="true" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/libframe/src/main/java/com/dawn/libframe/db/QuerySupport.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -1354,7 +926,7 @@
     <entry file="file://$PROJECT_DIR$/app/proguard-rules.pro">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="155">
-          <caret line="286" column="34" lean-forward="true" selection-start-line="286" selection-start-column="34" selection-end-line="286" selection-end-column="34" />
+          <caret line="286" column="34" selection-start-line="286" selection-start-column="34" selection-end-line="286" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -1394,12 +966,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dawn/frameapp/ui/home/HomeFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
-          <caret line="86" column="1" lean-forward="true" selection-start-line="86" selection-start-column="1" selection-end-line="86" selection-end-column="1" />
+        <state relative-caret-position="45">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
           <folding>
             <element signature="e#1797#1798#0" expanded="true" />
             <element signature="e#1842#1843#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uilogin/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
         </state>
       </provider>
     </entry>

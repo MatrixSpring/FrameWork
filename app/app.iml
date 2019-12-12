@@ -170,5 +170,7 @@
     <orderEntry type="library" name="Gradle: net.zetetic:android-database-sqlcipher:4.2.0@aar" level="project" />
     <orderEntry type="module" module-name="libframe" />
     <orderEntry type="module" module-name="libpatch" />
+    <orderEntry type="module" module-name="libframe" />
+    <orderEntry type="module" module-name="libpatch" />
   </component>
 </module>
