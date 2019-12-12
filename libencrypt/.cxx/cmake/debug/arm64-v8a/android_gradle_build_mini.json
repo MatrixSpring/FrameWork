@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "/Users/dawn/Downloads/AABB/FrameApplicationNew/libencrypt/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/dawn/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/dawn/Downloads/AABB/FrameApplicationNew/libencrypt/.cxx/cmake/debug/arm64-v8a --target clean"
+  ],
+  "libraries": {
+    "lib-encrypt-Debug-arm64-v8a": {
+      "artifactName": "lib-encrypt",
+      "buildCommand": "/Users/dawn/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/dawn/Downloads/AABB/FrameApplicationNew/libencrypt/.cxx/cmake/debug/arm64-v8a --target lib-encrypt",
+      "abi": "arm64-v8a",
+      "output": "/Users/dawn/Downloads/AABB/FrameApplicationNew/libencrypt/build/intermediates/cmake/debug/obj/arm64-v8a/liblib-encrypt.so"
+    }
+  }
+}

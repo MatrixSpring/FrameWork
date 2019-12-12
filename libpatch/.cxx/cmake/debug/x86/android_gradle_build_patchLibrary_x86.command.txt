@@ -1,0 +1,8 @@
+Executable : /Users/dawn/Library/Android/sdk/cmake/3.6.4111459/bin/cmake
+arguments : 
+--build
+/Users/dawn/Downloads/AABB/FrameApplicationNew/libpatch/.cxx/cmake/debug/x86
+--target
+patchLibrary
+jvmArgs : 
+

@@ -1,0 +1,15 @@
+include ':app'
+include ':libview'
+include ':libbase'
+include ':libframe'
+include ':libshare'
+include ':libencrypt'
+include ':bindview'
+include ':uilogin'
+include ':libpatch'
+include 'bindview:libannotation'
+include 'bindview:libprocessor'
+include 'bindview:libbindview'
+
+
+rootProject.name='FrameApp'

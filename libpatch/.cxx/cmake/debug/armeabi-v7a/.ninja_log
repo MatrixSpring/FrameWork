@@ -1,0 +1,12 @@
+# ninja log v5
+7	92	0	CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/crctable.c.o	e215f2dc169101fa
+3	164	0	CMakeFiles/patchLibrary.dir/src/main/jni/bspatch.c.o	8be1edae8da6d2b5
+0	209	0	CMakeFiles/patchLibrary.dir/src/main/jni/patchlibrary.c.o	d98121ee96ea17de
+164	240	0	CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/randtable.c.o	f6e21463ab5ff046
+2	315	0	CMakeFiles/patchLibrary.dir/src/main/jni/bsdiff.c.o	b90429bb1ac5d407
+240	341	0	CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/huffman.c.o	f2231245ad9e817c
+8	502	0	CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/compress.c.o	fcbebffa6df2eca9
+209	515	0	CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/blocksort.c.o	77afb3ad25af33bc
+92	574	0	CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/decompress.c.o	52cc3d9e139d9c30
+5	625	0	CMakeFiles/patchLibrary.dir/src/main/jni/bzip2/bzlib.c.o	a7cd96c5e6beb753
+625	691	0	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libpatchLibrary.so	4a0c9e017f0ce3cb

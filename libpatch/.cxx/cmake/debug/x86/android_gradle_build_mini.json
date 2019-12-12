@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "/Users/dawn/Downloads/AABB/FrameApplicationNew/libpatch/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/dawn/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/dawn/Downloads/AABB/FrameApplicationNew/libpatch/.cxx/cmake/debug/x86 --target clean"
+  ],
+  "libraries": {
+    "patchLibrary-Debug-x86": {
+      "artifactName": "patchLibrary",
+      "buildCommand": "/Users/dawn/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/dawn/Downloads/AABB/FrameApplicationNew/libpatch/.cxx/cmake/debug/x86 --target patchLibrary",
+      "abi": "x86",
+      "output": "/Users/dawn/Downloads/AABB/FrameApplicationNew/libpatch/build/intermediates/cmake/debug/obj/x86/libpatchLibrary.so"
+    }
+  }
+}
